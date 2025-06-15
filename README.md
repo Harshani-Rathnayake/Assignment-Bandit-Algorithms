@@ -35,6 +35,12 @@ Bandit Algorithms in Stationary and Non-Stationary Environments.ipynb
 3. Open Jupyter Notebook on your machine
 4. Navigate to the downloaded .ipynb file and open it
 5. Run all cells: Kernel > Restart & Run All
-   
+
+## Requirements:
+This project uses the following Python libraries, which are already installed in the notebook environment:  
+- numpy
+- matplotlib
+- scipy
+
 ## Results:
 The notebook generates plots and tables described in the report, summarizing the performance of different bandit algorithms
